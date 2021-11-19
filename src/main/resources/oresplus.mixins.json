@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.damqn4etobg.oresplus.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+  ],
+  "client": [
+    "OresPlusMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
