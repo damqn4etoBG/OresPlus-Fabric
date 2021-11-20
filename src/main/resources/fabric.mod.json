@@ -1,12 +1,14 @@
 {
   "schemaVersion": 1,
-  "id": "oresplus",
+  "id": "modid",
   "version": "${version}",
 
   "name": "Ores+",
-  "description": "This mod adds new ores, biomes and bosses to the game!",
+  "description": "This mod adds new biomes, blocks, items, and more to the game!",
   "authors": [
-    "damqn4etoBG"
+    "damqn4etoBG",
+    "Fredd",
+    "Kaupenjoe"
   ],
   "contact": {
   },

@@ -1,10 +1,10 @@
 {
 	"item.oresplus.ruby": "Ruby",
-	"itemGroup.oresplusgroup": "Ores+",
-	"itemGroup.oresplustoolsgroup": "Ores+ Tools",
-	"itemGroup.oresplusarmorgroup": "Ores+ Armor",
-	"itemGroup.oresplusfarmgroup": "Ores+ Farming",
-	"itemGroup.oresplusengineeringgroup": "Ores+ Engineering",
+	"itemGroup.oresplus.oresplusgroup": "Ores+",
+	"itemGroup.oresplus.oresplustoolsgroup": "Ores+ Tools",
+	"itemGroup.oresplus.oresplusarmorgroup": "Ores+ Armor",
+	"itemGroup.oresplus.oresplusfarmgroup": "Ores+ Farming",
+	"itemGroup.oresplus.oresplusengineeringgroup": "Ores+ Engineering",
 
 	"item.oresplus.ruby_axe": "Ruby Axe",
 	"item.oresplus.ruby_sword": "Ruby Sword",
@@ -74,6 +74,9 @@
 	"tooltip.oresplus.radioactive_generator": "Hold \u00A7eSHIFT\u00A7r for more information!",
 	"tooltip.oresplus.radioactive_generator_shift": "Generates Energy from radioactive materials.",
 	"tooltip.oresplus.hammer": "Hold \u00A7eSHIFT\u00A7r for more information!",
-	"tooltip.oresplus.hammer_shift": "Makes Plates from materials"
+	"tooltip.oresplus.hammer_shift": "Makes Plates from materials",
+
+	"enchantment.oresplus.lightning_striker": "\u00A7dLightning Striker",
+	"enchantment.oresplus.lightning_thorns": "\u00A7dLightning Thorns"
 }
 
